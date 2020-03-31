@@ -1,2 +1,2 @@
 # BeachCoastLineDetection
-Algorithms to beach line coast detection and horizon line detection
+Algorithms to beach coast line detection and horizon line detection. To see results and statistics vide the presentation folder
