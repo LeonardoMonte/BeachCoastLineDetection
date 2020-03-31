@@ -1,0 +1,15 @@
+['boa_viagem_2018-1.jpg', 'boa_viagem_2018-297.jpg', 'boa_viagem_2018-3.jpg', 'boa_viagem_2018-313.jpg', 'boa_viagem_2018-33.jpg' 'boa_viagem_2018-369.jpg', 'boa_viagem_2018-383.jpg', 'boa_viagem_2018-685.jpg', 'boa_viagem_2018-697.jpg', 'boa_viagem_2018-701.jpg']
+['boa_viagem_2018-1.png', 'boa_viagem_2018-297.png', 'boa_viagem_2018-3.png', 'boa_viagem_2018-313.png', 'boa_viagem_2018-33.png' 'boa_viagem_2018-369.png', 'boa_viagem_2018-383.png', 'boa_viagem_2018-685.png', 'boa_viagem_2018-697.png', 'boa_viagem_2018-701.png']
+
+Média DLCGGME
+
+[29.90674054 24.13019391 39.77285319 19.22530009 33.37119114 51.35918744 31.99630656  1.9076639  27.08587258  9.24376731]
+
+26.799907666000003
+13.578357663434202
+
+LOWER
+
+[29.90674054 24.13019391 39.77285319 19.22530009 33.37119114 51.35918744 31.99630656  1.9076639  27.08587258  9.24376731]
+
+
